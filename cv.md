@@ -1,11 +1,13 @@
 #Olzhas Anafin  
 ---
-##contact me
-phone: +7(707)377-88-83
-email: olzhas.anafin@gmail.com
+##Contact me
+* **location:** Astana, Kazakhstan
+* **phone:** +7(707)377-88-83
+* **email:** olzhas.anafin@gmail.com
+* **discord:** oanafin
 
 ---
-##experience
+##Experience
 
 * **03/2016 - 12/2022 Workforce Development Center** 
 *Vice president, Director of the Department of Development and Maintenance of Information Systems*  
@@ -19,10 +21,18 @@ email: olzhas.anafin@gmail.com
 *programmer*
 
 ---
-##education
+##Education
 * **2003-2007 Manash Kozybayev North Kazakhstan university**, Petropavl,Kazakhstan
 *Information Systems*
 
 ---
-##skills
-*HTML, CSS, Javascript, SQL, Git, Postgres, Oracle*
+##Skills
+* HTML, CSS
+* Javascript
+* Postgres, Oracle
+* Git
+
+---
+##English
+* A2 (Pre-Intermediate)
+ 
