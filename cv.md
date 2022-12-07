@@ -33,6 +33,13 @@
 * Git
 
 ---
+##Code example
+
+    function multiply(a, b){
+        return a * b
+    }
+
+---
 ##English
 * A2 (Pre-Intermediate)
  
