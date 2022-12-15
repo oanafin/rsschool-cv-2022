@@ -29,7 +29,7 @@ body {
 }
 
 .container {
-  max-width: 1440px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -39,15 +39,8 @@ body {
 }
 
 .section {
-  width: 50%;
+  width: 100%;
   border-bottom: 1px solid rgb(157, 201, 231);
-}
-
-@media (max-width: 768px) {
-  .section {
-    width: 100%;
-  }
-  
 }
 
 .section-profile {
@@ -64,6 +57,10 @@ body {
   text-transform: uppercase;
   letter-spacing: 5px;
   color: rgb(127, 179, 214);
+}
+
+.section-item-text {
+  font-weight: 300;
 }
 
 .section-profile-title {
