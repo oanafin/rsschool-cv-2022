@@ -21,15 +21,11 @@ body {
 }
 
 .header {
-  border: 1px solid red;
-}
-
-.main {
-  border: 1px solid red;
+  background-color: rgb(157, 201, 231);
 }
 
 .footer {
-  border: 1px solid red;
+  background-color: rgb(157, 201, 231);
 }
 
 .container {
@@ -44,7 +40,7 @@ body {
 
 .section {
   width: 50%;
-  border-bottom: 1px solid rgb(127, 179, 214);
+  border-bottom: 1px solid rgb(157, 201, 231);
 }
 
 @media (max-width: 768px) {
@@ -59,7 +55,7 @@ body {
   justify-content: space-around;
   width: 100%;
   padding: 50px;
-  border-bottom: 8px solid rgb(127, 179, 214);
+  border-bottom: 1px solid rgb(157, 201, 231);
 }
 
 .section-title {
@@ -77,8 +73,7 @@ body {
 
 .nav-list {
   display: flex;
-  justify-content: first baseline;
-  align-items: center;
+  justify-content: center;
   list-style: none;
 }
 
@@ -88,7 +83,23 @@ body {
   transition: .3s;
 }
 
+.footer-list {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.footer-item {
+  margin: 0 20px;
+  line-height: 50px;
+}
+
 .foto {
   width: 200px;
   height: 200px;
+}
+
+.course-logo {
+  width: 100px;
+  height: 50px;
 }
